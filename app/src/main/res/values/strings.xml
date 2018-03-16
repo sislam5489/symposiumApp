@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="load_game">Load Game</string>
+    <string name="the_forgotten_lives">The Forgotten Lives</string>
+    <string name="new_game">New Game</string>
+    <string name="todo">TODO</string>
+</resources>
